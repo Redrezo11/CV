@@ -1,0 +1,31 @@
+body {
+  background-color: #A0A0A0;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: thick;
+  color: white;
+  width: 30%;
+
+}
+
+b {
+  color: #404040
+}
+
+strong {
+  color: #404040
+}
+
+h2 {
+
+  color: #404040
+}
+
+h3 {
+
+  color: #404040;
+
+}
